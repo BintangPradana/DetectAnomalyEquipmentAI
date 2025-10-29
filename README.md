@@ -1,12 +1,19 @@
 # DetectAnomalyEquipmentAI
 
 Directory Information:
+
 demo: contains demo jupyter notebook to run locally
+
 lambda_api_gw: contains lambda function for API gateway integration
+
 lambda_process_report: contains lambda function to proccess sagemaker output with recommendation from Bedrock
+
 lambda_trigger_transform: contains lambda function to trigger sagemaker to transform the input for anomaly detection.
+
 presentation: contains powerpoint file.
+
 sagemaker: training and inference script
+
 samples: sample input and output
 
 
